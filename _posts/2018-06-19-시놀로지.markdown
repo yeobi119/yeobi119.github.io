@@ -14,7 +14,7 @@ categories: jekyll
 
  굳이 이렇게까지 셋팅을 안해도 되고, 오픈 마인드 or 쇄국 정책 중 하나를 셋팅해서 하면 될것 같습니다.
 
-####  셋팅 관점
+####셋팅 관점
 
 
 주. NAS 용도는 데이터 백업용 
@@ -69,7 +69,7 @@ DDNS : 시놀로지 호스트 네임 무료 제공 ( *.synology.me 제공함)
 QuickConnect 은 버튼 누르면 셋팅이 끝나지만 주소 서버가 해외에 있어서 들렀다 가야하기 때문에 시간이 느리지만,
 DDNS 는 NAS로 바로 붙을수 있는 주소를 찾아가는 것이기 때문에 속도가 빠름(공유기가 있다면 공유기 셋팅도 해야함)
 
-** 하드 활용 예정 **
+**하드 활용 예정**
 
 SHR, ext4
 
@@ -78,18 +78,10 @@ Raid 1로 하려 했지만... 이 경우 랜섬웨어 걸리면 노답이여서,
 물론 NAS 외부의 외장 스토리지에 하면 좋겠지만, NAS 설치 공간도 복잡해지고 귀찮아짐...
 (btrfs. 쓰고 싶다. 이미지 스냅샷 하고 싶다. 내 모델은 저가형이라 안된다..........)
 
-** etc **
+**etc**
 
 . 시놀로지 NAS에서 도커 활용 가능함 (저가형 모델에서는 지원 안함... 내가 개발자여서 자주 착각하는 것중 하나인데, SW의 구매력는 기술력으로 분별 하는것이 아니라 사용자의 편의성에 맞춰야한다. 고로 시놀로지 영업 잘한다)
 . 사용자, 그룹 셋팅에서 그룹의 공유폴더 권한을 Homes 내부에 있는 admin 폴더만 막은 그룹 만들어 두면 편함
 . 공용 폴더를 사용자별로 접근 권한을 나눠가져도 됨(관리 목적)
 
 
-
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
