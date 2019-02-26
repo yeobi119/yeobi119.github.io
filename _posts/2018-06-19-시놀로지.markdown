@@ -55,11 +55,11 @@ categories: jekyll
 
 .키워드 : 자동으로 보내기 중지,감시 폴더, DLM
 
-** WebDav Server **
+**WebDav Server**
  파일 공유용. (FTP 대비 동영상 플레이시에 로딩이 빠르다고 함)
  FTP 기능을 HTTP 로 제공하는 것 같음. 
  
-** NAS 접속(QuickConnect, DDNS) **
+**NAS 접속(QuickConnect, DDNS) **
 QuickConnect : 시놀로지 url 주소 무료 제공 ( *.quickconnect.to 제공 함)
 DDNS : 시놀로지 호스트 네임 무료 제공 ( *.synology.me 제공함)
 
